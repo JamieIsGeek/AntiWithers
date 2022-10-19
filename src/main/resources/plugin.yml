@@ -1,0 +1,6 @@
+name: AntiWithers
+version: '${project.version}'
+main: net.sootmc.antiwithers.AntiWithers
+api-version: 1.19
+authors: [ JamieIsGeek ]
+description: A plugin that disables wither spawning
